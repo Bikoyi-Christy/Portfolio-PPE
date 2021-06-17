@@ -1,0 +1,66 @@
+body{
+    background-color: #FCFFFF;
+}
+
+.menu{
+    text-align: right;
+    
+}
+
+
+.entete{
+   
+    text-align: center;
+    font-size:2em ;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    height: 13em;
+    background-image: url("banniere-contactez-nous.jpg");
+    
+  
+}
+/* 
+#Tsujet{
+  
+    text-align: center;
+    
+} */
+
+.monsujet{
+     border: black 2px solid; 
+    height: 12em;
+    font-size: 1.5em;
+   background-image: url("shutterstock_517670749.jpg");
+   height: 25em;
+   text-align: center;
+}
+
+.cv{
+   
+    height: 50em;
+    text-align: center;
+    /* background-color: #97BABA; */
+}
+
+ul{
+    list-style-position: inside;
+    /* list-style: none; */
+}
+.photo{
+    height: 20%;
+    width: 20%;
+}
+.diplome{
+    border: black 2px solid; 
+    text-align: center;
+    font-size: large;
+}
+
+.citation{
+    text-align: center;
+    font-size: 2em;
+    background-color: #97BABA;
+    height: 15em;
+    background-image: url("téléchargement.jpg");
+    color: #97BABA;
+    border: black 2px solid; 
+}
